@@ -1,0 +1,36 @@
+Javascript OOPS
+CSS basics (selector, )
+Bootstrap
+Jquery
+AngularJS (directives)
+Ionicframework
+Cordova
+Grunt
+
+
+
+https://github.com/yangshun/front-end-interview-handbook
+
+https://github.com/MaximAbramchuck/awesome-interview-questions
+
+https://github.com/yangshun/tech-interview-handbook
+
+
+https://github.com/kennymkchan/interview-questions-in-javascript
+
+https://github.com/khan4019/front-end-Interview-Questions
+
+https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers
+
+
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+
+
+https://github.com/Yonet/Angular-Interview-Questions
+
+https://github.com/vvscode/js--interview-questions
+
+https://github.com/komejo/front-end-developer-employer-questions
+
+
+https://github.com/wwwebman/front-end-interview-questions
