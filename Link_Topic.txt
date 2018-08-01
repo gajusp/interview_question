@@ -34,3 +34,5 @@ https://github.com/komejo/front-end-developer-employer-questions
 
 
 https://github.com/wwwebman/front-end-interview-questions
+
+https://bitsofco.de/async-vs-defer/
